@@ -25,7 +25,7 @@ spec:
     
     spec: 
       containers: 
-      - name: nginx
+      - name: app1
         image: satishlakamsani/app1:1.0.0
 
 
