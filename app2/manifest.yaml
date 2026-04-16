@@ -26,7 +26,7 @@ spec:
     spec: 
       containers: 
       - name: app2
-        image: satishlakamsani/app2:1.0.0
+        image: satishlakamsani/app2:1.0.1
 
 
 
